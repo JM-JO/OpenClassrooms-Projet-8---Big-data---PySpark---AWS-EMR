@@ -2,10 +2,10 @@
 Ce projet a été réalisé dans le cadre du parcours de [formation de Data Scientist](https://openclassrooms.com/fr/paths/164-data-scientist) d'OpenClassrooms.
 
 # Pitch du projet
-L'agence "Santé publique France" a lancé un appel à projet autour des problématiques alimentaires. Vous proposerez une application basée sur des données nutritionnelles.
+Votre startup AgriTech souhaite développer une application mobile permettant de détecter des fruits sur une photo. A vous d'industrialiser le modèle à grande échelle grâce aux outils du big data !
 
 # Mission
-[Enoncé.](https://github.com/JM-JO/OpenClassrooms-Projet-3---Application-sante-publique/blob/main/Mission.pdf)
+[Enoncé.](https://github.com/JM-JO/OpenClassrooms-Projet-8---Big-data---PySpark---AWS-EMR/blob/main/Mission.pdf)
 
 # Résultat
-[Présentation](https://github.com/JM-JO/OpenClassrooms-Projet-3---Application-sante-publique/blob/main/Pr%C3%A9sentation.pdf) powerpoint au client.
+[Support de présentation](https://github.com/JM-JO/OpenClassrooms-Projet-8---Big-data---PySpark---AWS-EMR/blob/main/Pr%C3%A9sentation.pdf).
